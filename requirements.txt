@@ -1,0 +1,14 @@
+#ARIMA
+pmdarima
+matplotlib
+pandas
+numpy
+holidays
+
+
+
+#PROPHET
+prophet
+pandas
+holidays
+matplotlib
